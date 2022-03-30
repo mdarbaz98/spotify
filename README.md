@@ -1,2 +1,2 @@
 ### React js Spotify App
-![](https://ibb.co/VBwdqDM)
+![](https://i.ibb.co/BsnmCjT/s1.png)
