@@ -1,0 +1,23 @@
+.right_menu{
+    background-color: rgba(34, 34, 34, 0.6);
+    backdrop-filter: blur(10px);
+    min-width: 100px;
+    height: 100vh;
+    z-index: 1;
+    border-left: solid 1px rgba(255, 255, 255, 0.1);
+    transition: all 0.3s cubic-bezier(0.39, 0.575, 0.565, 1);
+    -webkit-transition: all 0.3s cubic-bezier(0.39, 0.575, 0.565, 1);
+    -moz-transition: all 0.3s cubic-bezier(0.39, 0.575, 0.565, 1);
+    -ms-transition: all 0.3s cubic-bezier(0.39, 0.575, 0.565, 1);
+    -o-transition: all 0.3s cubic-bezier(0.39, 0.575, 0.565, 1);
+}
+
+
+.right_menu .user_img:hover .text_section{
+    width: 100%;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+    -webkit-transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+    -moz-transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+    -ms-transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+    -o-transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
